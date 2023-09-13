@@ -1,0 +1,102 @@
+[
+	{
+        "id": 1835847,
+        "name": "Seoul",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.0,
+            "lat": 37.583328
+        }
+	},
+	{
+        "id": 1838519,
+        "name": "Busan",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 129.050003,
+            "lat": 35.133331
+        }
+	},
+	{
+        "id": 1841603,
+        "name": "Gyeongju",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 129.21167,
+            "lat": 35.842781
+        }
+	},
+	{
+        "id": 1835224,
+        "name": "Daejeon",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.416672,
+            "lat": 36.333328
+        }
+	},
+	    {
+        "id": 1843561,
+        "name": "Incheon",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 126.416107,
+            "lat": 37.450001
+        }
+	},
+	{
+        "id": 1835327,
+        "name": "Daegu",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 128.550003,
+            "lat": 35.799999
+        }
+	},
+	{
+        "id": 1833742,
+        "name": "Ulsan",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 129.266663,
+            "lat": 35.566669
+        }
+	},
+	{
+        "id": 1835553,
+        "name": "Suwon",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.008888,
+            "lat": 37.291111
+        }
+	},
+	{
+        "id": 1845457,
+        "name": "Jeonju",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.148888,
+            "lat": 35.821941
+        }
+	},
+	{
+        "id": 1841808,
+        "name": "Gwangju",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 126.916672,
+            "lat": 35.166672
+        }
+	}
+]	
